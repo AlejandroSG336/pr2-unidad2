@@ -10,5 +10,6 @@ for materia in materias:  # Recorro la lista de materias
   print(materia)  # Despliego en pantalla cada materia
 
 ![Uploading image.png…]()
+
 ![Uploading image.png…]()
 
